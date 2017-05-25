@@ -1,0 +1,8 @@
+<resources>
+	<string name="app_name">finalProject</string>
+	<string name="temprature">Temprature</string>
+	<string name="condition">Condition</string>
+	<string name="location">Location</string>
+	<string name="search">Search</string>
+	<string name="istanbul">Istanbul</string>
+</resources>
