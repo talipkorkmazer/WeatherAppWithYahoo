@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/talipcankorkmazer/Desktop/mobil/finalProjeDownload/finalProject/WeatherAppWithYahoo/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="742065b055cbf645bed6af206df5b47ab24b5a38">
+        <dex dex="/Users/talipcankorkmazer/Desktop/mobil/finalProjeDownload/finalProject/WeatherAppWithYahoo/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_7308d637e91e1e77340d53f62a9cf916a70c4581/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/talipcankorkmazer/Desktop/mobil/finalProjeDownload/finalProject/WeatherAppWithYahoo/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="/Users/talipcankorkmazer/Desktop/mobil/finalProjeDownload/finalProject/WeatherAppWithYahoo/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_71eab1814768dc3813a232957889003d4670ebb1/classes.dex" />
+    </item>
+
+</items>
